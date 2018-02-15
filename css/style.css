@@ -3,7 +3,3 @@ body {
     overflow-y: hidden;
     overflow-x: hidden;
 }
-
-#mycanvas {
-	background-image: url(img\image.jpeg);
-}
