@@ -6,7 +6,7 @@ canvas.style.background = "url(img/image.jpg)";
 var c = canvas.getContext('2d');
 
 var colorArray = ['#EF6270', '#734052', '#213443', '#F4EAC8', '#F15F60'];
-var numCircles = 6200;
+var numCircles = 700;
 
 
 var mouse = {
